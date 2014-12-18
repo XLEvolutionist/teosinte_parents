@@ -400,3 +400,4 @@ date
 ```
 
 Now how does Tajima's D and pi vary when you consider different minimum numbers of individuals with data at a site. This will be done using the following script:
+![pi](/Users/simonrenny-byfield/test_angst/pi_vs_minInd.png)
